@@ -3,7 +3,7 @@ body {
   }
   
   #mainImg {
-    width: 35%;
+    width: 30%;
   }
   
   .box {
@@ -12,7 +12,9 @@ body {
     width: 200px;
     padding: 1rem;
   }
-  
+  .boxbg{
+    background-color: yellow;
+  }
   .boxLink {
     text-decoration: none;
   }
