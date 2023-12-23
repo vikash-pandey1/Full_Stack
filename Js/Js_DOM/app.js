@@ -130,3 +130,7 @@ p1.innerText = 'me too!';
 div.append(p1);
 container.append(div);
 
+let bnt = document.createElement('button');
+bnt.innerText = 'seond btn';
+container.append(bnt);
+
